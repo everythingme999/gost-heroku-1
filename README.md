@@ -2,7 +2,7 @@
 
 GOST version : 2.5+
 
-Server Mode ：mws(default)、ws
+Server Mode ：mws(default)、ws(选ws)
 
 Client CLI ：
 gost -L=:1080  -F=wss://app.herokuapp.com:443
